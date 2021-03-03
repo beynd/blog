@@ -12,7 +12,7 @@ Hey! Welcome to Beyond. We're so happy that you're here.
 
 We're on a mission to make sense of the Internet. There's so much stuff out there right now, that it's really hard to find the right content that's most valuable *to you*.
 
-If you want to learn something new, like ___, you'll find hundreds or thousands of blogs, articles, videos, and podcasts about it. Where do you start? Which one do you choose?
+If you want to learn something new, like Data Science, you'll find hundreds or thousands of blogs, articles, videos, and podcasts about it. Where do you start? Which one do you choose?
 
 Your time is valuable, and trying them all out is expensive, or impossible.
 
