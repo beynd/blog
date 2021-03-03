@@ -17,7 +17,7 @@ If you want to learn something new, like Data Science, you'll find hundreds or t
 
 Your time is valuable, and trying them all out is expensive, or impossible.
 
-Beyond is a community and a platform for finding only the best stuff, curated by people who know the answer already. You don't need to waste hours of searching the Internet, because there's an expert there who has already followed the same path, is already curating the best stuff.
+Beyond is a community and a platform for finding only the best stuff, curated by people who know the answer already. You don't need to waste hours of searching the Internet, because there's an expert there who has already followed the same path, and is already curating the best stuff.
 
 Everyone can easily collect, share, and discover the things most valuable to them.
 
