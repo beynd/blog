@@ -4,6 +4,7 @@
   "author_profile": "https://gobeyond.so/shane",
   "date": "2021-03-03T13:52:42.513Z",
   "title": "The future of content is human-to-human",
+  "description": "Welcome to Beyond. We're here to fix content consumption on the Internet. We're devoted to the best content, curated by real people. Not algorithms.",
   "image": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
 }
 ---
