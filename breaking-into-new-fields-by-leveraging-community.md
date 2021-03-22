@@ -3,9 +3,9 @@
   "photo": "https://images.gobeyond.so/displaypic/eQMGkU1fWFQ5PV1zYY6ZfrpfqSM2.png",
   "author_profile": "https://gobeyond.so/alex",
   "date": "2021-03-22T16:05:10.951Z",
-  "title": "Breaking into new fields by leveraging community",
-  "description": "The next economy to shape the Internet is here: the Curator Economy.",
-  "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  "title": "Why real humans make the better mentors then algorithms",
+  "description": "Breaking into new fields by leveraging community",
+  "image": "https://images.unsplash.com/photo-1550096141-7263640aa48c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
 }
 ---
 
