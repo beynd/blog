@@ -5,7 +5,7 @@
   "date": "2021-03-22T16:05:10.951Z",
   "title": "Why real humans make better mentors than algorithms",
   "description": "We believe that the future of content consumption should be human-to-human and not dependent on an algorithmic that is optimised for clicks. People are collecting and sharing content with others.",
-  "image": "https://images.unsplash.com/photo-1550096141-7263640aa48c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  "image": "https://images.gobeyond.so/misc/blog/kylie-lugo-t0BavJY0M-U-unsplash.jpg"
 }
 ---
 
