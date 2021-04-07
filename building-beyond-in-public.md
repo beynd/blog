@@ -33,5 +33,5 @@ It's going to be a fun ride, and we can't wait to share it with you! If there's 
 To follow along, find us here:
 
 - Our blog is where you can read our long-form articles. Join our mailing list to receive them directly in your mailbox
-- Follow us on Twitter, where we will link to everything (including the blog): Alex & Shane
-- Follow Beyond on LinkedIn
+- Follow us on Twitter, where we will link to everything (including the blog): [Alex](https://twitter.com/alexanderhipp) & [Shane](https://twitter.com/sneub)
+- Follow Beyond on [LinkedIn](https://www.linkedin.com/company/beyondso)
