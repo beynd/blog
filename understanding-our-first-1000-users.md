@@ -15,6 +15,8 @@ We don't have a dedicated user researcher in the team yet. Therefore, everyone i
 
 Marc Andreessen defined the term product/market fit as follows: "It means being in a good market with a product that can satisfy that market." So this means you build something people want. But who are these people? What are their needs, fears and dreams and how does your product idea fit in their life? How are they solving the problem at the moment?
 
+![alt text](https://images.gobeyond.so/misc/blog/pmf-beyond.png "Product/Market Fit")
+
 These questions can only be answered if you start talking to them a lot and frequently. We try to speak to five potential users a week in an open interview format for 30 minutes and with the whole team involved.
 
 We mainly ask open-ended questions and let the interviewees do the talking without having too much structure in the discussion. Questions you ask should be around the problem they might have, that your solution is supposed to solve, possible friction with their current solutions, and where, when, why and how often the problem occurs for them.
