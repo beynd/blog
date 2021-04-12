@@ -23,6 +23,8 @@ With Beyond, we are creating an entirely new market: [The Curator Economy](https
 
 After a few interviews, there might already be specific patterns that evolve (we structure our notes with [Notion](https://www.notion.so/). People are saying the same things or complaining about similar hurdles in their daily lives. These are great starting points for running a [survey](https://www.typeform.com/) with a broader audience of people that might fit your target group. By doing this, you either verify or falsify first assumptions, and you get a lot more interested people to reach out to for an in-depth interview later on.
 
+![alt text](https://images.gobeyond.so/misc/blog/beyond-waiting-list.png "Beyond Waiting List")
+
 Also, you can build a first landing page that describes the problem as you see it and the way you want to solve the problem for them. The solution part doesn't need to be super specific since you probably don't exactly have a solution in mind yet. That's ok. By allowing users to leave their email address on the landing page, you can capture early interest and build up a pool of potential users early on.
 
 To get direct feedback from this waiting list group, we experimented with a quick [video-based survey](https://www.videoask.com/) with three questions that we showed to the users right after they have signed up to the waiting list. This helped us to refine and improve the landing page directly.
