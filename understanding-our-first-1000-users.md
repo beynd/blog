@@ -15,7 +15,7 @@ We don't have a dedicated user researcher in the team yet. Therefore, everyone i
 
 Marc Andreessen defined the term product/market fit as follows: "It means being in a good market with a product that can satisfy that market." So this means you build something people want. But who are these people? What are their needs, fears and dreams and how does your product idea fit in their life? How are they solving the problem at the moment?
 
-![alt text](https://cdn.gobeyond.so/misc/blog/pmf-beyond.png "Beyond working on Product Market Fit")
+![alt text](https://images.gobeyond.so/misc/blog/pmf-beyond.png "Beyond working on Product Market Fit")
 
 
 These questions can only be answered if you start talking to them a lot and frequently. We try to speak to five potential users a week in an open interview format for 30 minutes and with the whole team involved.
@@ -26,7 +26,7 @@ With Beyond, we are creating an entirely new market: [The Curator Economy] (http
 
 After a few interviews, there might already be specific patterns that evolve (we structure our notes with (https://www.notion.so/). People are saying the same things or complaining about similar hurdles in their daily lives. These are great starting points for running a [survey] (https://www.typeform.com/) with a broader audience of people that might fit your target group. By doing this, you either verify or falsify first assumptions, and you get a lot more interested people to reach out to for an in-depth interview later on.
 
-![alt text](https://cdn.gobeyond.so/misc/blog/beyond-waiting-list.png "Beyond Waiting List")
+![alt text](https://images.gobeyond.so/misc/blog/beyond-waiting-list.png "Beyond Waiting List")
 
 Also, you can build a first landing page that describes the problem as you see it and the way you want to solve the problem for them. The solution part doesn't need to be super specific since you probably don't exactly have a solution in mind yet. That's ok. By allowing users to leave their email address on the landing page, you can capture early interest and build up a pool of potential users early on.
 
