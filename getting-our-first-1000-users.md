@@ -15,7 +15,7 @@ Traction is the quantitative evidence of customer demand. I regard traction to b
 
 We have a very systematic approach to most things at Beyond, and traction is no exception. Let me show you.
 
-### Goals and Focus
+## Goals and Focus
 
 To guide our work, and ensure that we're optimising for the right thing, first we set a traction focus. The focus needs to be aligned with what we're trying to achieve for our business at the time.
 
@@ -29,7 +29,7 @@ The focus is important, because as you begin brainstorming ideas and talking to 
 
 Before we get into strategy, ideas, or actions, the focus must be clear.
 
-### Hypotheses and Ideas
+## Hypotheses and Ideas
 
 Everything we do is an experiment. We acknowledge up front that we don't know if it will work or not (even if sometimes we think we do), and design an experiment to test. Everything is a hypothesis until we have data to back it up.
 
@@ -39,7 +39,7 @@ We set a timer and spend time coming up with ideas for every single channel. At 
 
 A couple of ideas on our list which didn't make the cut (yet) include writing a book, and hosting a "how to make money during a pandemic" online workshop. These could work! But they are not our top ideas for now.
 
-### Choosing Experiments
+## Choosing Experiments
 
 After brainstorming, we generally have quite a large list of ideas. In our first session, we were left with 66 ideas to work with. That's way too many!
 
@@ -55,7 +55,7 @@ We are working primarily with two personas for Beyond (content curators, and con
 
 From this prioritised list, we took the top ten, and moved on to Traction Mapping.
 
-### Traction Mapping
+## Traction Mapping
 
 Ideas and experiments often have two or more ways of providing value to us. They provide value through their direct outcome (social media posts bring clicks) but very often they provide value in other ways too.
 
@@ -67,7 +67,7 @@ After shortlisting our top ideas, we perform an exercise we call Traction Mappin
 
 This helps us figure out a good starting point, or where we should be investing a lot (or not much). We can see from the links between ideas how impactful one of them might be. It intuitively starts to reveal some good areas to start.
 
-### Measurement
+## Measurement
 
 Experiments are worthless if you don't have a good way to measure results. By nature, an experiment is uncertain, so we need to use data to understand if it was worth our investment or not.
 
@@ -87,7 +87,7 @@ This way, we can track performance of traffic through each experiment, even if t
 
 In one case, our website was linked during a speaking event using a QR code. We made sure to include our experiment ID in the URL, so that we could track "clicks" through this experiment, even with an 'offline' event.
 
-### Double Down
+## Double Down
 
 When something starts working well, we double down on it. If something is not performing well, we have an honest conversation, and probably kill it. (There is a chance we'll keep it if the investment is low, and it supports another experiment)
 
