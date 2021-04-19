@@ -1,7 +1,7 @@
 {
   "author": "Shane Neubauer",
-  "photo": "https://images.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
-  "author_profile": "https://gobeyond.so/shane",
+  "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
+  "author_profile": "https://beyond.so/shane",
   "date": "2021-03-30T15:50:43.358Z",
   "title": "The eagle has landed",
   "description": "And we're live!",
