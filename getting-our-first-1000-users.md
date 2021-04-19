@@ -5,7 +5,7 @@
   "date": "2021-04-19T15:21:26.890Z",
   "title": "Getting Our First 1000 Users",
   "description": "How We Approach Traction At Beyond",
-  "image": "https://images.gobeyond.so/misc/blog/picadilly_beyond.png"
+  "image": "https://cdn.gobeyond.so/misc/blog/picadilly_beyond.png"
 }
 ---
 
