@@ -3,13 +3,11 @@
   "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
   "author_profile": "https://beyond.so/shane",
   "date": "2021-04-19T11:07:51.322Z",
-  "title": "Getting Our First 1000 Users",
+  "title": "Getting Our First 1000 Users: How We Approach Traction At Beyond",
   "description": "How we approach traction at Beyond.",
   "image": "https://images.unsplash.com/photo-1615845522846-02f89af04c2e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
 }
 ---
-
-# Getting Our First 1000 Users: How We Approach Traction At Beyond
 
 Traction is a big topic for us at Beyond right now! I'd like to share how we approach this important topic.
 
