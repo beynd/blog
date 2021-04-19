@@ -9,8 +9,6 @@
 }
 ---
 
-# Getting our first 1000 users: How we approach traction at Beyond
-
 Traction is a big topic for us at Beyond right now! I'd like to share how we approach this important topic.
 
 Traction is the quantitative evidence of customer demand. I regard traction to be a sub-topic of marketing. It's focused primarily on getting early momentum, and evidence that your product works. 
