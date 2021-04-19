@@ -1,7 +1,7 @@
 {
   "author": "Shane Neubauer",
-  "photo": "https://images.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
-  "author_profile": "https://gobeyond.so/shane",
+  "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
+  "author_profile": "https://beyond.so/shane",
   "date": "2021-04-06T15:51:15.058Z",
   "title": "Building Beyond In Public",
   "description": "Why we decided to build our company and our product in public.",
