@@ -1,7 +1,7 @@
 {
   "author": "Shane Neubauer",
-  "photo": "https://images.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
-  "author_profile": "https://gobeyond.so/shane",
+  "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
+  "author_profile": "https://beyond.so/shane",
   "date": "2021-03-03T13:52:42.513Z",
   "title": "The future of content is human-to-human",
   "description": "Welcome to Beyond. We're here to fix content consumption on the Internet. We're devoted to the best content, curated by real people. Not algorithms.",
