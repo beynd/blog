@@ -5,13 +5,13 @@
   "date": "2021-04-19T15:21:26.890Z",
   "title": "Getting Our First 1000 Users",
   "description": "How We Approach Traction At Beyond",
-  "image": "https://images.unsplash.com/photo-1615845522846-02f89af04c2e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  "image": "https://images.gobeyond.so/misc/blog/picadilly_beyond.png"
 }
 ---
 
 Traction is a big topic for us at Beyond right now! I'd like to share how we approach this important topic.
 
-Traction is the quantitative evidence of customer demand. I regard traction to be a sub-topic of marketing. It's focused primarily on getting early momentum, and evidence that your product works. 
+Traction is the quantitative evidence of customer demand. I regard traction to be a sub-topic of marketing. It's focused primarily on getting early momentum, and evidence that your product works.
 
 We have a very systematic approach to most things at Beyond, and traction is no exception. Let me show you.
 
@@ -63,7 +63,7 @@ For example, writing blog posts means we start to rank in search engine results,
 
 In this way, some experiments actually support other experiments. Even if one doesn't bring great results, if it supports another experiment, then we might keep it anyway.
 
-After shortlisting our top ideas, we perform an exercise we call Traction Mapping, where we visually map each experiment, and the influence it has on others. 
+After shortlisting our top ideas, we perform an exercise we call Traction Mapping, where we visually map each experiment, and the influence it has on others.
 
 This helps us figure out a good starting point, or where we should be investing a lot (or not much). We can see from the links between ideas how impactful one of them might be. It intuitively starts to reveal some good areas to start.
 
@@ -81,7 +81,7 @@ To measure all of these metrics, we use Google Analytics, configured with some c
 
 Most of it is achieved using out-of-the-box features, but there's one thing we built to support our measurement: a special URL that fires a custom event, depending on a parameter.
 
-This is a small piece of code that we insert into each public page on our site, and if there's an experiment ID (just a number we choose) then it tracks that as an event. 
+This is a small piece of code that we insert into each public page on our site, and if there's an experiment ID (just a number we choose) then it tracks that as an event.
 
 This way, we can track performance of traffic through each experiment, even if they are landing on the same landing page.
 
