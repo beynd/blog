@@ -1,7 +1,7 @@
 {
   "author": "Shane Neubauer",
   "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
-  "author_profile": "https://gobeyond.so/shane",
+  "author_profile": "https://beyond.so/shane",
   "date": "2021-04-19T11:07:51.322Z",
   "title": "Getting Our First 1000 Users",
   "description": "How we approach traction at Beyond.",
