@@ -1,7 +1,7 @@
 {
   "author": "Alexander Hipp",
   "photo": "https://images.gobeyond.so/displaypic/eQMGkU1fWFQ5PV1zYY6ZfrpfqSM2.png",
-  "author_profile": "https://gobeyond.so/alex",
+  "author_profile": "https://beyond.so/alex",
   "date": "2021-04-12T18:00:10.951Z",
   "title": "Understanding Our First 1000 Users",
   "description": "How we are using user research techniques and methods to define our target customers and learn about their underserved needs. We don't have a dedicated user researcher in the team yet.",

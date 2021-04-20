@@ -55,7 +55,7 @@ We are working primarily with two personas for Beyond (content curators, and con
 
 From this prioritised list, we took the top ten, and moved on to Traction Mapping.
 
-![alt text](https://images.gobeyond.so/misc/blog/traction-map.png "Beyond traction mapping exercise")
+![alt text](https://images.beyond.so/misc/blog/traction-map.png "Beyond traction mapping exercise")
 
 ## Traction Mapping
 
