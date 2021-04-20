@@ -55,6 +55,8 @@ We are working primarily with two personas for Beyond (content curators, and con
 
 From this prioritised list, we took the top ten, and moved on to Traction Mapping.
 
+![alt text](https://images.gobeyond.so/misc/blog/traction-map.png "Beyond traction mapping exercise")
+
 ## Traction Mapping
 
 Ideas and experiments often have two or more ways of providing value to us. They provide value through their direct outcome (social media posts bring clicks) but very often they provide value in other ways too.
