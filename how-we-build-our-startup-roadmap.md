@@ -15,7 +15,7 @@ This example illustrates perfectly on how strategising and roadmapping works in 
 
 At Beyond, we separate the vision, mission (1-3 years), the mid-term goals (1-3 months) with the current focus (1-3 weeks). Only for this period of 1-3 weeks we are in the position to build a roadmap. Anything beyond that is just pure guessing and very high level. We have a direction but not yet a clear execution plan.
 
-To build a great roadmap we need to know a lot about our users, their problems and what we need to build that has a high chance to solve them. In a startup you normally have neither of them. You don't have many users, you have not fully understood the problem and therefore it's super hard to come up with great features or a roadmap.
+To build a great roadmap we need to know a lot about our users, their problems and what we need to build that has a high chance of solving these problems. In a startup you normally have neither of them. You don't have many users, you have not fully understood the problem and therefore it's super hard to come up with great features or a roadmap.
 
 The focus is on learning. We want to ship the smallest possible increment ("skateboard") of value to real users as fast as possible [(source)](https://www.intercom.com/blog/moving-faster-with-smaller-steps/) to validate our biggest assumptions. Because if our assumptions about the users problems and the way we would solve it are wrong we are going out of business superfast.
 
