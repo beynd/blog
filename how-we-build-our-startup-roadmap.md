@@ -9,28 +9,20 @@
 }
 ---
 
-This article is the first in a series where we share stories and best practices of our quest for reaching product/market fit with Beyond. This time: How we are using user research techniques and methods to define our target customers and learn about their underserved needs.
+"The original iPhone did not include cut, copy and paste capability." Early adopters of Apple actually had to wait until iOS 3 to be able to easily copy things [(source)](https://www.productplan.com/learn/product-roadmaps-startups-versus-enterprises/). But how come that a rather simple yet important feature like this didn't make the feature-set of the first version of iOS?
 
-We don't have a dedicated user researcher in the team yet. Therefore, everyone in the team is responsible for talking to potential users.
+This example illustrates perfectly on how strategising and roadmapping works in startups or new product lines compared to established businesses. By creating a roadmap we are lying out what the current focus is and what comes next. We also consciously decide on what we don't want to spend time on.
 
-Marc Andreessen defined the term product/market fit as follows: "It means being in a good market with a product that can satisfy that market." So this means you build something people want. But who are these people? What are their needs, fears and dreams and how does your product idea fit in their life? How are they solving the problem at the moment?
+At Beyond, we separate the vision, mission (1-3 years), the mid-term goals (1-3 months) with the current focus (1-3 weeks). Only for this period of 1-3 weeks we are in the position to build a roadmap. Anything beyond that is just pure guessing and very high level. We have a direction but not yet a clear execution plan.
 
-![alt text](https://images.gobeyond.so/misc/blog/pmf-beyond.png "Product/Market Fit")
+To build a great roadmap we need to know a lot about our users, their problems and what we need to build that has a high chance to solve them. In a startup you normally have neither of them. You don't have many users, you have not fully understood the problem and therefore it's super hard to come up with great features or a roadmap.
 
-These questions can only be answered if you start talking to them a lot and frequently. We try to speak to five potential users a week in an open interview format for 30 minutes and with the whole team involved.
+The focus is on learning. We want to ship the smallest possible increment ("skateboard") of value to real users as fast as possible [(source)](https://www.intercom.com/blog/moving-faster-with-smaller-steps/) to validate our biggest assumptions. Because if our assumptions about the users problems and the way we would solve it are wrong we are going out of business superfast.
 
-We mainly ask open-ended questions and let the interviewees do the talking without having too much structure in the discussion. Questions you ask should be around the problem they might have, that your solution is supposed to solve, possible friction with their current solutions, and where, when, why and how often the problem occurs for them.
+In the case of the iPhone, the cut copy paste feature didn't make it on the roadmap, since it was not helping them to validate the idea of an iPhone in general. For them it was ok to ship this way later based on real user feedback.
 
-With Beyond, we are creating an entirely new market: [The Curator Economy](https://gobeyond.so/blog/welcome-to-the-curator-economy). Most people haven't heard of this before and therefore don't know that they might be potential members of this new emerging opportunity. This is why the possible future customer's answers should mainly drive the direction of the conversation. Don't tell them how great your idea is, what you envision the market to be and how it will change their lives in the future. You can do this at the end.
+The advantage of working in a startup is that it usually takes way less time to develop things and ship them. Less complexity, less hierarchy and stakeholders and also less users who need to learn a new behaviour. The faster we are able to ship something and learn, the shorter our feedback loops are. In an early-stage startup you don't have months or years to learn, you have weeks.
 
-After a few interviews, there might already be specific patterns that evolve (we structure our notes with [Notion](https://www.notion.so/). People are saying the same things or complaining about similar hurdles in their daily lives. These are great starting points for running a [survey](https://www.typeform.com/) with a broader audience of people that might fit your target group. By doing this, you either verify or falsify first assumptions, and you get a lot more interested people to reach out to for an in-depth interview later on.
+So instead of preparing months of work in advance we ship a first version of the feature, test it with real users, listen to their feedback and iterate. If something doesn't have the expected effect we either change it, remove it from the product or pivot.
 
-![alt text](https://images.gobeyond.so/misc/blog/beyond-waiting-list.png "Beyond Waiting List")
-
-Also, you can build a first landing page that describes the problem as you see it and the way you want to solve the problem for them. The solution part doesn't need to be super specific since you probably don't exactly have a solution in mind yet. That's ok. By allowing users to leave their email address on the landing page, you can capture early interest and build up a pool of potential users early on.
-
-To get direct feedback from this waiting list group, we experimented with a quick [video-based survey](https://www.videoask.com/) with three questions that we showed to the users right after they have signed up to the waiting list. This helped us to refine and improve the landing page directly.
-
-After capturing many different opinions about your potential market, you are in a much better position to define your best customers. The first 1000 users will help you to the next stage. We talked to more than a hundred people as of now and had feedback from almost a thousand. This is still the beginning, but we have a much better picture now of what to build, and even more importantly, where to start.
-
-The next article in this series will give more insight into how we are working on the traction topic. How do we get to these first 1000 users after we have defined their profile?
+The worst thing you can do in this stage is to build a perfect product ("sports car") for a year and then look for users who might find value in using it.
