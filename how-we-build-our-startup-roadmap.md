@@ -5,7 +5,7 @@
   "date": "2021-04-26T16:00:10.951Z",
   "title": "How We Build Our Startup Roadmap",
   "description": "To build a great roadmap we need to know a lot about our users, their problems and what we need to build that has a high chance to solve them.",
-  "image": "https://images.gobeyond.so/misc/blog/roadmap-beyond-startup-build-create.png"
+  "image": "https://cdn.gobeyond.so/misc/blog/roadmap-beyond-startup-build-create.png"
 }
 ---
 
