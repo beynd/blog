@@ -9,7 +9,7 @@
 }
 ---
 
-Content on the Internet is growing at an alarming rate. Every minute of every day, there are 400 hours of video content uploaded to YouTube — and that was in 2019. Over 90% of the data on the Internet today has been created since 2016. 
+Content on the Internet is growing at an alarming rate. Every minute of every day, there are 400 hours of video content uploaded to YouTube — and that was in 2019. Over 90% of the data on the Internet today has been created since 2016.
 
 The Creator Economy, or the decentralisation and democratisation of content, has been a major driver of this, and has led us along an interesting path. After shifting content creation power from big media companies into the hands of individuals on the Internet, we've seen an uprising of people producing content such as writing or video courses, and in many cases, making a living from it.
 
@@ -17,7 +17,7 @@ The visible success of the creators, and subsequently the platforms that support
 
 All of this has resulted in more and more content.
 
-The more content there is, the harder it becomes for us to find the most valuable thing to consume. The more we need to trust in an algorithm to help us find the right things. Things that help us achieve our objective, whether that's to learn a new professional skill, or to learn how to 
+The more content there is, the harder it becomes for us to find the most valuable thing to consume. The more we need to trust in an algorithm to help us find the right things. Things that help us achieve our objective, whether that's to learn a new professional skill, or to learn how to
 
 The problem is, the algorithms that we are forced to depend on are the very ones designed to maximise advertising revenue on their platforms.
 

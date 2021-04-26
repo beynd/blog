@@ -3,7 +3,7 @@
   "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
   "author_profile": "https://beyond.so/shane",
   "date": "2021-03-03T13:52:42.513Z",
-  "title": "The future of content is human-to-human",
+  "title": "The Future of Content Is Human-to-Human",
   "description": "Welcome to Beyond. We're here to fix content consumption on the Internet. We're devoted to the best content, curated by real people. Not algorithms.",
   "image": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80"
 }
@@ -25,9 +25,9 @@ Beyond is designed around existing behaviours:
 
 **Collecting things for later**
 
-When we find something we like on the Internet, we naturally like to save it for later. There are so many ways to do it. Bookmark a link in your browser, put it into your Amazon Wishlist, save it to your Watch Later list in YouTube, or bookmark it on Twitter. Save the story on Medium, or archive it using Pocket. 
+When we find something we like on the Internet, we naturally like to save it for later. There are so many ways to do it. Bookmark a link in your browser, put it into your Amazon Wishlist, save it to your Watch Later list in YouTube, or bookmark it on Twitter. Save the story on Medium, or archive it using Pocket.
 
-Beyond is the ***one*** place to put everything. You can organise things, plan your consumption, tag everything, and share it with others. 
+Beyond is the ***one*** place to put everything. You can organise things, plan your consumption, tag everything, and share it with others.
 
 **Sharing things with others**
 

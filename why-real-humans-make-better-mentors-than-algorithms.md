@@ -3,7 +3,7 @@
   "photo": "https://images.gobeyond.so/displaypic/eQMGkU1fWFQ5PV1zYY6ZfrpfqSM2.png",
   "author_profile": "https://gobeyond.so/alex",
   "date": "2021-03-22T16:05:10.951Z",
-  "title": "Why real humans make better mentors than algorithms",
+  "title": "Why Real Humans Make Better Mentors Than Algorithms",
   "description": "We believe that the future of content consumption should be human-to-human and not dependent on an algorithmic that is optimised for clicks. People are collecting and sharing content with others.",
   "image": "https://images.gobeyond.so/misc/blog/kylie-lugo-t0BavJY0M-U-unsplash.jpg"
 }

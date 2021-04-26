@@ -3,7 +3,7 @@
   "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
   "author_profile": "https://beyond.so/shane",
   "date": "2021-03-30T15:50:43.358Z",
-  "title": "The eagle has landed",
+  "title": "The Eagle Has Landed",
   "description": "And we're live!",
   "image": "https://images.unsplash.com/photo-1517976384346-3136801d605d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=800&q=80"
 }
