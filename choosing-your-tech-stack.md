@@ -17,7 +17,7 @@ Every experienced engineer is full of opinions on which tech is better, and of c
 
 But choosing a tech stack is more than just picking your favourite things. How did we approach this decision?
 
-### It’s all about moving fast
+## It’s all about moving fast
 
 It’s easy to fall into the trap of thinking that this decision is for forever. That you need to be able to scale from day one, to handle the trillions of users that you’ll inevitably have very soon.
 
@@ -31,7 +31,7 @@ Be prepared to throw away a very large amount of what you build in the early day
 
 So, get started with whatever allows you to move quickly. Which programming language can you write fluently? Which framework do you know well? Which database is easy for you? That’s the answer. Let’s go!
 
-### It’s all about the people
+## It’s all about the people
 
 Hopefully before too long, you’re seeing more users enjoy your product, and plenty of them are coming back.
 
@@ -47,7 +47,7 @@ COBOL could be the most suitable tech for your use case (ha!), but if you can’
 
 Tech that is commonly used on the market has the added benefit of having a large community to engage with. You’ll have a greater chance of finding answers on Stack Overflow.
 
-### Choosing tech is not about the tech
+## Choosing tech is not about the tech
 
 If you can find a group of engineers, you’ll find an abundance of debates around what tech is better than which other tech. But what many engineers won’t tell you is that, in 99% of cases, *it really doesn’t make a difference.*
 
