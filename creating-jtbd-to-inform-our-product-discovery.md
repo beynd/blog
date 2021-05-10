@@ -2,27 +2,33 @@
   "author": "Alexander Hipp",
   "photo": "https://images.gobeyond.so/displaypic/eQMGkU1fWFQ5PV1zYY6ZfrpfqSM2.png",
   "author_profile": "https://beyond.so/alex",
-  "date": "2021-04-26T16:00:10.951Z",
-  "title": "Building Our Startup Roadmap",
-  "description": "To build a great roadmap we need to know a lot about our users, their problems and what we need to build that has a high chance to solve them.",
-  "image": "https://cdn.gobeyond.so/misc/blog/roadmap-beyond-startup-build-create.png"
+  "date": "2021-10-26T16:00:10.951Z",
+  "title": "Creating JTBD to Inform Our Product Discovery",
+  "description": "Jobs are not the same as your mission, vision or goals. They describe an underlying human need, not the features of the product.",
+  "image": "https://cdn.gobeyond.so/misc/blog/jtbd.jpg"
 }
 ---
+In one of the recent blog posts, we shared our ways of interviewing potential users and taking their input to build a valuable product. Today, we want to share how we use the Jobs-to-be-done framework to structure our thoughts around their problems and needs.
 
-"The original iPhone did not include cut, copy and paste capability." Early adopters of Apple actually had to wait until iOS 3 to be able to easily copy things [(source)](https://www.productplan.com/learn/product-roadmaps-startups-versus-enterprises/). But how come that a rather simple yet important feature like this didn't make the feature-set of the first version of iOS?
+During my career, I used the JTBD framework on various occasions to make informed decisions and fuel product discovery. In all of these cases, the different jobs already existed, and I never had to create them from scratch.
 
-This example illustrates perfectly on how strategising and roadmapping works in startups or new product lines compared to established businesses. By creating a roadmap we are lying out what the current focus is and what comes next. We also consciously decide on what we don't want to spend time on.
+[(With the help of my LinkedIn network)](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6792080011584143360/), I've identified the perfect article for someone like me, someone with a basic understanding of the framework but who has never had to create them.After skimming through [(this article)](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework), I had a good idea of what I need to get started. As a quick recap, if you never worked with JTBD: A Job-to-be-done statement describes what people are trying to accomplish in a given situation. If we help people get "Jobs" done faster, more conveniently, or less expensively than before, we stand a good chance of creating products customers want.
 
-At Beyond, we separate the vision, mission (1-3 years), the mid-term goals (1-3 months) with the current focus (1-3 weeks). Only for this period of 1-3 weeks we are in the position to build a roadmap. Anything beyond that is just pure guessing and very high level. We have a direction but not yet a clear execution plan.
+Jobs are not the same as your mission, vision or goals. They describe an underlying human need, not the features of the product.
+Notably, a job should showcase a promising and specific market opportunity about an unmet need of your target users — balancing between too broad or too niche. What exactly is too general or too niche?
+This balance is more art than science, but [(as Paul Graham)](http://paulgraham.com/startupideas.html) describes: "You can either build something a large number of people want a small amount or something a small number of people want a large amount. Choose the latter." But don't define the Job too narrowly. A small Job will limit our ability to innovate.
 
-To build a great roadmap we need to know a lot about our users, their problems and what we need to build that has a high chance of solving these problems. In a startup, you normally have none of them. You don't have many users, you have not fully understood the problem and therefore it's super hard to come up with great features or a roadmap.
+Running through the following process brought us to seven core jobs-to-be-done that now inform our product discovery, solution creation and thinking about our target group.
+1. We were writing a rough target audience definition. Who do we think could benefit from the idea we have in mind for Beyond.
+2. Interviewing roughly a 100 potential user within that target audience to [(learn about their problems, needs and processes)](https://beyond.so/blog/understanding-our-first-1000-users)
+3. Creating a map that showcased how different needs relate to each other and what caused them.
+4. Defining the JTBD-statements (starting with a verb) describes a deeply rooted problem we identified in many user interviews.
+5. After we defined the seven JTBD, we described them in more detail by answering the following questions.
+  * Who are the people within the target audience who experience the need?
+  * How do they currently satisfy this need?
+  * What is their expected outcome?
+  * How could Beyond satisfy the need better than existing products?
 
-The focus is on learning. We want to ship the smallest possible increment ("skateboard") of value to real users as fast as possible [(source)](https://www.intercom.com/blog/moving-faster-with-smaller-steps/) to validate our biggest assumptions. Because if our assumptions about the users problems and the way we would solve it are wrong we are going out of business superfast.
+Together with our Purpose, Vision and Mission statement, the JTBD are building an excellent foundation for our product work on our way to reaching Product-Market-Fit and [(shaping our product roadmap)](https://beyond.so/blog/how-we-build-our-startup-roadmap)
 
-In the case of the iPhone, the cut copy paste feature didn't make it on the roadmap, since it was not helping them to validate the idea of an iPhone in general. For them it was ok to ship this way later based on real user feedback.
-
-The advantage of working in a startup is that it usually takes way less time to develop things and ship them. Less complexity, less hierarchy and stakeholders and also less users who need to learn a new behaviour. The faster we are able to ship something and learn, the shorter our feedback loops are. In an early-stage startup you don't have months or years to learn, you have weeks.
-
-So instead of preparing months of work in advance we ship a first version of the feature, test it with real users, listen to their feedback and iterate. If something doesn't have the expected effect we either change it, remove it from the product or pivot.
-
-The worst thing you can do in this stage is to build a perfect product ("sports car") for a year and then look for users who might find value in using it.
+Thanks to Jim Kalbach (The Jobs To Be Done Playbook) and Sunita Mohanty (Build Products That Solve Real Problems With This Lightweight JTBD Framework) for writing an excellent book and article explaining the framework and Thomas Flinsbach and Thomas Leitermann for recommending it to me.
