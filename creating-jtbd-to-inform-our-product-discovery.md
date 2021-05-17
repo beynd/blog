@@ -2,7 +2,7 @@
   "author": "Alexander Hipp",
   "photo": "https://images.gobeyond.so/displaypic/eQMGkU1fWFQ5PV1zYY6ZfrpfqSM2.png",
   "author_profile": "https://beyond.so/alex",
-  "date": "2021-10-26T16:00:10.951Z",
+  "date": "2021-05-10T16:00:10.951Z",
   "title": "Creating JTBD to Inform Our Product Discovery",
   "description": "Jobs are not the same as your mission, vision or goals. They describe an underlying human need, not the features of the product.",
   "image": "https://cdn.gobeyond.so/misc/blog/jtbd.jpg"
