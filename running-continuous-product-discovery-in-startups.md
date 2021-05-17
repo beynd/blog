@@ -43,7 +43,7 @@ We're currently using different places for documentation to keep the team inform
 
 By having these places accessible to everyone and up-to-date, we could quickly bring in new team members, revisit proof for product decisions, and ensure that we are still building solutions within our JTBD-boundaries.
 
-**How can our methods and discovery implementations successfully scale with our challenges, our growing user base or the company?**
+### How can our methods and discovery implementations successfully scale with our challenges, our growing user base or the company?
 Face-to-face interviews are probably the best way to gather qualitative feedback, but they are also tough to scale. The best way to ensure to spend a reasonable amount of time on research and discovery activities is by having a good balance between different methods and types of user feedback that flows almost automatically. At Beyond, we are currently running the following actions to gather user input:
 
 * Qualitative interviews every week (semi-structured and JTBD- or UX-focused).
