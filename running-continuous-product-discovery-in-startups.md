@@ -21,7 +21,7 @@ Important discovery-related questions that we need to answer in early-stage star
 
 Let's go through each of the four questions and see how we address them at Beyond.
 
-### How can we ensure to automatically and continuously run discovery?
+## How can we ensure to automatically and continuously run discovery?
 To discover new potential opportunities that support product strategy, roadmap, or feature direction effortlessly, we need to make sure that product discovery happens regularly, like stand-ups or sprint planning. We need to find ways to integrate learning mechanisms into our product and our team routines to stream user feedback constantly.
 
 * Fixed interview session blocks during the week: Blocking a specific time for user interviews and setting up a user pool.
@@ -29,7 +29,7 @@ To discover new potential opportunities that support product strategy, roadmap, 
 * Schedule team meetings to share user feedback or look at usage dashboards and experiment results to create new insights together.
 * If users fill a survey or have been interviewed by someone in the team, send a notification to a specific slack channel so people know that new feedback is available.
 
-### How do we share and capture findings within the team or company?
+## How do we share and capture findings within the team or company?
 Many companies of all sizes struggle to integrate product discovery cycles successfully. One of the main problems is sharing and capturing of their findings within the company.
 
 At Beyond, we are still less than ten people, but we can already feel the need for making our findings accessible to everyone. Not all team members can take part in all discovery actions, and therefore, we need to provide reasonable documentation.
@@ -43,7 +43,7 @@ We're currently using different places for documentation to keep the team inform
 
 By having these places accessible to everyone and up-to-date, we could quickly bring in new team members, revisit proof for product decisions, and ensure that we are still building solutions within our JTBD-boundaries.
 
-### How can our methods and discovery implementations successfully scale with our challenges, our growing user base or the company?
+## How can our methods and discovery implementations successfully scale with our challenges, our growing user base or the company?
 Face-to-face interviews are probably the best way to gather qualitative feedback, but they are also tough to scale. The best way to ensure to spend a reasonable amount of time on research and discovery activities is by having a good balance between different methods and types of user feedback that flows almost automatically. At Beyond, we are currently running the following actions to gather user input:
 
 * Qualitative interviews every week (semi-structured and JTBD- or UX-focused).
@@ -55,7 +55,7 @@ Furthermore, we are currently planning to run different roundtables with potenti
 
 This mix between qualitative and quantitative feedback feels just right to discover continuously but not feel overwhelmed by preparation work.
 
-### How do we make sure to run discovery as cheap but effective as possible?
+## How do we make sure to run discovery as cheap but effective as possible?
 Many platforms from survey creations, video chatting, preparing documentation, designing to setting up communities have either startup-friendly pricing or provide a free tier that you can leverage. By the way, if your company makes money at one point, don't shy away from paying some of these services back. We're all together building tools for each other, so be kind. You probably know how hard it is to generate income with freemium products.
 
 You usually don't have time or money to run expensive five-day discovery sprints with external consultants or pay the interviewees in a startup environment. Therefore, we need to find workarounds to be able to learn a lot without spending much. In the beginning, you are most probably interviewing mainly early adopters who do the interviews for free. They are very interested in your product and what problem it might solve for them as well as being the first to try it out than getting paid.
