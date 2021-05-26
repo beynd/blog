@@ -85,7 +85,7 @@ We all know that diversity in teams is great for business, because it introduces
 
 At Beyond, we do it on an ad-hoc basis right now. After setting an objective, we hypothesise about how to solve it, and run on a build-measure-learn cycle until we meet the objective, or until our priorities have changed.
 
-**How many objectives should you set?** Ideally, just one. Try to stick to one for as long as possible. Eventually it may make sense to introduce another one. Keep in mind that the more you have, the less focus you have. Creating focus is the entire point. Focus creates harmony.
+**How many objectives should you set at a time?** Ideally, just one. Try to stick to one at a time for as long as possible. Eventually it may make sense to introduce another one. Keep in mind that the more you have, the less focus you have. Creating focus is the entire point. Focus creates harmony.
 
 ## **Using Objectives**
 
