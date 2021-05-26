@@ -75,7 +75,7 @@ This is a moment that we nurture the connection with our vision and mission, so 
 
 **Why is it important to question and refine the objective?** Because the objective should never be prescriptive. It should never describe how to get to the destination. Only the destination itself.
 
-There may be many ways to achieve it, some of which may never occur to you. But someone else might. Or you might figure it out together along the way. 
+There may be many ways to achieve it, some of which you may never personally think of. But someone else might. Or you might figure it out together along the way. 
 
 You hire smart people, so you should create an environment where they get to use their brain, and come up with their own ideas. Creating good objectives supports a culture where people get to innovate.
 
