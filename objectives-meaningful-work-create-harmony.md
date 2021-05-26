@@ -3,7 +3,7 @@
   "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
   "author_profile": "https://beyond.so/shane",
   "date": "2021-05-26T03:49:27.592Z",
-  "title": "Working With Objectives: Do Meaningful Work and Create Harmony In Your Startup",
+  "title": "Using Objectives: Doing Meaningful And Productive Work",
   "description": "How we use objectives to ensure our work is meaningful and productive",
   "image": "https://images.unsplash.com/photo-1486944936280-f152c82ac151?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
 }
@@ -43,7 +43,7 @@ To start the process, you should try to answer the question: ***What is most imp
 
 This may require a bit of discussion to align, but hopefully you don't have fundamental differences. If you do, figure it out amongst yourselves until you have **one** decided.
 
-After coming up with a rough answer to that question, the process begins. Following a similar path to *[the Five Whys]*(https://en.wikipedia.org/wiki/Five_whys), we begin questioning it, and through the process, refining it too.
+After coming up with a rough answer to that question, the process begins. Following a similar path to [the Five Whys](https://en.wikipedia.org/wiki/Five_whys), we begin questioning it, and through the process, refining it too.
 
 *"The most important thing for us right now is to get more people to fill out the survey"*
 
