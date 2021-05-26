@@ -3,7 +3,7 @@
   "photo": "https://cdn.gobeyond.so/displaypic/KxhnrzJ0ozOeB7TN3hLz5Fj1eLM2.jpg",
   "author_profile": "https://beyond.so/shane",
   "date": "2021-05-26T03:49:27.592Z",
-  "title": "Using Objectives: Doing Meaningful And Productive Work",
+  "title": "Doing Meaningful And Productive Work",
   "description": "How we use objectives to ensure our work is meaningful and productive",
   "image": "https://images.unsplash.com/photo-1486944936280-f152c82ac151?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
 }
