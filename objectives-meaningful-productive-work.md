@@ -59,7 +59,7 @@ After coming up with a rough answer to that question, the process begins. Follow
 
 *"Having high value users will help to increase engagement in the product"*
 
-Bingo! We have an objective: *****Increase engagement in the product.*
+Bingo! We have an objective: *Increase engagement in the product.*
 
 How do you know when to stop? Contrary to what the name suggests, you don't have to do it exactly five times. It may be three, it may be seven.
 
