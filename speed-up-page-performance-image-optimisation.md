@@ -74,4 +74,4 @@ The main thing: it's up to us. We have the control.
 
 Sometimes it's great to get started with easy out-of-the box solutions, but you may find that you outgrow them quickly, just like we did. Our design is important to us, and we want our users to have a wonderful experience. Optimising our images properly has helped us on our mission to delight our users.
 
-This was the first of many upcoming technical posts on our blog. Do you like reading this type of content? Want to read more? Share your feedback with us on Twitter.
+This was the first of many upcoming technical posts on our blog. Do you like reading this type of content? Want to read more? Share your feedback with us on [Twitter](https://twitter.com/sneub).
