@@ -3,8 +3,8 @@
   "photo": "https://images.gobeyond.so/displaypic/eQMGkU1fWFQ5PV1zYY6ZfrpfqSM2.png",
   "author_profile": "https://beyond.so/alex",
   "date": "2021-06-14T14:00:10.951Z",
-  "title": "Curation as the Future of the Internet",
-  "description": "Curation gives even mundane objects value by connecting them with a point of view, heritage, a subculture or purpose that makes them stand out in the vortex of speed, superficiality, and newness.",
+  "title": "Curation Is the Future of Discovering Content On the Internet",
+  "description": "Beyond the platform for content curation.  Curation gives even mundane objects value by connecting them with a point of view, heritage, a subculture or purpose that makes them stand out in the vortex of speed, superficiality, and newness.",
   "image": "https://cdn.gobeyond.so/misc/blog/curation_future_internet_beyond.png"
 }
 ---
