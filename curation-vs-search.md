@@ -55,6 +55,6 @@ Today we're sitting nicely on the far top-right of the chart above. The amount o
 
 But, there's still a long way to go, to bring the Internet back to an equilibrium.
 
-So, is the future of online search looking bleak? No, certainly not. But, search is the hero the Internet deserves, but not the one it needs right now.
+So, is the future of online search looking bleak? No, certainly not. But, search is the hero the Internet deserves, not the one it needs right now.
 
 Say hello to curation 👋
