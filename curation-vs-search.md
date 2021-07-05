@@ -35,7 +35,7 @@ A simple example in business is product quality vs. revenue. You can't choose on
 
 At any given point in time, we exist somewhere along the polarity, and our job is to try to stay as close to the centre as we can. This is the optimum balance.
 
-What typically happens is we drift toward one side until problems arise, then our reaction is to jump way over to the other side, solving with an either/or outcome. The best reaction, however, is to accept that both will exist, and work toward an outcome where the two poles can complement each other.
+What typically happens is we drift toward one side until problems arise, then our reaction is to jump way over to the other side, solving with an either/or outcome. The best reaction, however, is to accept that both will exist, and work toward an outcome where we can get the best parts of both. Where the poles complement each other.
 
 ![https://cdn.gobeyond.so/misc/blog/curation-vs-search.png](https://cdn.gobeyond.so/misc/blog/curation-vs-search.png)
 
