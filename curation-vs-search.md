@@ -39,19 +39,17 @@ What typically happens is we drift toward one side until problems arise, then ou
 
 ![https://cdn.gobeyond.so/misc/blog/curation-vs-search.png](https://cdn.gobeyond.so/misc/blog/curation-vs-search.png)
 
-> All curation grows until it requires search. All search grows until it requires curation
-
-*- Ben Evans*
-
 Search grows until we reach a tipping point that even the search results page is too long to find *that one thing that I need right now*.
 
 Curation solves for this, by adding a human tour guide into the mix. Humans have the ability to understand situations, people, and topics at a much deeper level than computers do (right now, at least), so they can serve as the perfect complement for finding resources.
 
 At some point in the future, though, there will be an overwhelm of curated content too. This is where search will see another hey day.
 
+![https://cdn.gobeyond.so/misc/blog/curation-vs-search-quote.png](https://cdn.gobeyond.so/misc/blog/curation-vs-search-quote.png)
+
 ## Where are we today?
 
-Today we're sitting nicely on the far top-right of the chart above. The amount of content on the Internet is become unwrangleable (yes, it's a new word) and we're in dire need of curation. We are already seeing curated content rising on the Internet. We're seeing an inflection happen in real time, right now.
+Today we're sitting nicely on the far top-right of the chart above. The amount of content on the Internet has become unwrangleable (yes, it's a new word) and we're in dire need of curation. We are already seeing curated content rising on the Internet. We're seeing an inflection happen in real time, right now.
 
 But, there's still a long way to go, to bring the Internet back to an equilibrium.
 
