@@ -3,7 +3,7 @@
   "photo": "https://images.gobeyond.so/displaypic/eQMGkU1fWFQ5PV1zYY6ZfrpfqSM2.png",
   "author_profile": "https://beyond.so/alex",
   "date": "2021-07-12T12:00:10.951Z",
-  "title": "Why Beyond is a community-driven product",
+  "title": "Why Beyond Is a Community-Driven Product",
   "description": "Today, the best approach to building a successful product is becoming part of a specific audience.",
   "image": "https://images.unsplash.com/photo-1485182708500-e8f1f318ba72?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
 }
