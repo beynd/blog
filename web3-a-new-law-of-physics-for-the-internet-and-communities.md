@@ -5,7 +5,7 @@
   "date": "2021-11-24T14:32:36.139Z",
   "title": "Web3: A new law of physics for the Internet and communities",
   "description": "Back in the 90s we had this new technology — the Internet — on our hands and we were figuring out how to use it, and which use cases made sense.",
-  "image": "https://cdn.gobeyond.so/misc/blog/webthree.jpg"
+  "image": "https://cdn.gobeyond.so/misc/blog/webthree.png"
 }
 ---
 
