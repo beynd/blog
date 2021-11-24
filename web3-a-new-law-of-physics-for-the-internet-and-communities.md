@@ -32,7 +32,8 @@ Web3 brings a whole new foundation for the Internet, and right now we're effecti
 We'll be shortly seeing a reinvention of all the major tools and services we know, such as online marketplaces, communication tools, and online publishing. (See mirror.xyz as an example)
 
 ![https://cdn.gobeyond.so/misc/web3-adoption.png](https://cdn.gobeyond.so/misc/web3-adoption.png)
-Chart source: https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf
+
+Chart source: [https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
 
 ## The re-emergence of community
 
