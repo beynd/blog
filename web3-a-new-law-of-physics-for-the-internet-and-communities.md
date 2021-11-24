@@ -29,7 +29,7 @@ Web3 is not just an iteration of what we had before. It's like we went back to t
 
 Web3 brings a whole new foundation for the Internet, and right now we're effectively back in 1999, figuring out what is possible again.
 
-We'll be shortly seeing a reinvention of all the major tools and services we know, such as online marketplaces, communication tools, and online publishing. (See [mirror.xyz](mirror.xyz) as an example)
+We'll be shortly seeing a reinvention of all the major tools and services we know, such as online marketplaces, communication tools, and online publishing. (See [mirror.xyz](https://mirror.xyz) as an example)
 
 ![https://cdn.gobeyond.so/misc/web3-adoption.png](https://cdn.gobeyond.so/misc/web3-adoption.png)
 
