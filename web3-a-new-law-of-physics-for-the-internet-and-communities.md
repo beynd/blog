@@ -15,7 +15,7 @@ Many ideas were widely dismissed: Who the hell would want to buy shoes online? Y
 
 In hindsight, it's obvious. And, enough time has passed for us to laugh at these mistakes of our past selves. Of course it was possible! We were so silly!
 
-<b>Right now we're facing the same event.</b> We've got a new set of foundations — rules of physics — for the Internet, and we're figuring out what is possible with them.
+**Right now we're facing the same event.** We've got a new set of foundations — rules of physics — for the Internet, and we're figuring out what is possible with them.
 
 So far the use cases have been simple: buy and sell art online. Or, use the currency to transact with other people, without having intermediaries like banks involved. Sure, that's a start, but it's more fascinating to think about what is about to come next. To think about the doors that are now opening, thanks to this new set of tools, such as decentralised payments and smart contracts.
 
@@ -23,7 +23,7 @@ People who are skeptical about the movement are typically stuck looking at the c
 
 Sure, you can argue the sides of this specific situation, but if you do, you're largely missing the point. It's not about buying and selling images. That's just one use case we have right now.
 
-<h2>It's about what is coming next.</h2>
+## It's about what is coming next.
 
 Web3 is not just an iteration of what we had before. It's like we went back to the start and redesigned things. This is partly why it can be difficult to get on board with — we need to unlearn everything we got comfortable with over the past 25 years, and start again.
 
@@ -34,13 +34,13 @@ We'll be shortly seeing a reinvention of all the major tools and services we kno
 ![https://cdn.gobeyond.so/misc/web3-adoption.png](https://cdn.gobeyond.so/misc/web3-adoption.png)
 Chart source: https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf
 
-<h2>The re-emergence of community</h2>
+## The re-emergence of community
 
 Communities have been an ever-present foundation of Internet culture, since the beginning. From the moment we were able to connect computers together, we began finding each other and organising ourselves around common beliefs using whatever technology we had, starting with Usenet and IRC, and evolving to today's ecosystem.
 
 However, over the past twenty years, the Internet has been dominated and shaped by the large ads companies, and our perception of how things work was twisted to suit their motivations. The role of the community took a step back during this time, while we focused instead on optimising for audience size and reach.
 
-<b>The large ads companies influenced us more than we realised at the time:</b>
+**The large ads companies influenced us more than we realised at the time:**
 * They made us think that more people = more better.
 * They convinced us that it's OK for our privacy to be sold on our behalf.
 * They convinced us to give away our creative work for free, in return for likes and maybe a few scraps of a dollar.
@@ -53,7 +53,7 @@ We know that it's generally better to have a small group of hyper engaged people
 
 Communities have never gone away, but a new light shifts to them as the primary channels for communication, distribution, and discovery, and connection.
 
-<b>We begin to come back to the original truth of the internet</b> — back to the communities that drove things from the beginning. And now, as we return, we return with a whole new set of tools. A new law of Internet-physics that complements the essence of community perfectly.
+**We begin to come back to the original truth of the internet** — back to the communities that drove things from the beginning. And now, as we return, we return with a whole new set of tools. A new law of Internet-physics that complements the essence of community perfectly.
 
 We return with the possibility of true shared ownership. Of real reward for contribution, that is untouched by the platform. Communities can grow and thrive with aligned incentives, where success isn't just in the interest of the founder, but in the interest of everyone.
 
