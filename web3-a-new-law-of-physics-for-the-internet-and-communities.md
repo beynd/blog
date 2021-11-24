@@ -11,15 +11,15 @@
 
 Back in the 90s we had this new technology — the Internet — on our hands and we were figuring out how to use it, and which use cases made sense.
 
-Many ideas were widely dismissed: Who the hell would want to buy shoes online? You can't even try them on. And then, someone does it. Successfully. And that changes the game, and the minds of everyone forever.
+Many ideas were widely dismissed: *Who the hell would want to buy shoes online? You can't even try them on.* And then, someone does it. Successfully. And that changes the game, and the minds of everyone forever.
 
-In hindsight, it's obvious. And, enough time has passed for us to laugh at these mistakes of our past selves. Of course it was possible! We were so silly!
+In hindsight, it's obvious. And, enough time has passed for us to laugh at these mistakes of our past selves. *Of course it was possible! We were so silly!*
 
 **Right now we're facing the same event.** We've got a new set of foundations — rules of physics — for the Internet, and we're figuring out what is possible with them.
 
 So far the use cases have been simple: buy and sell art online. Or, use the currency to transact with other people, without having intermediaries like banks involved. Sure, that's a start, but it's more fascinating to think about what is about to come next. To think about the doors that are now opening, thanks to this new set of tools, such as decentralised payments and smart contracts.
 
-People who are skeptical about the movement are typically stuck looking at the current use cases, and judging them on their surface. NFT technology has been grouped into a single use case and judged: Why would I pay for an online image that I could right-click and save?
+People who are skeptical about the movement are typically stuck looking at the current use cases, and judging them on their surface. NFT technology has been grouped into a single use case and judged: *Why would I pay for an online image that I could right-click and save?*
 
 Sure, you can argue the sides of this specific situation, but if you do, you're largely missing the point. It's not about buying and selling images. That's just one use case we have right now.
 
@@ -29,7 +29,7 @@ Web3 is not just an iteration of what we had before. It's like we went back to t
 
 Web3 brings a whole new foundation for the Internet, and right now we're effectively back in 1999, figuring out what is possible again.
 
-We'll be shortly seeing a reinvention of all the major tools and services we know, such as online marketplaces, communication tools, and online publishing. (See mirror.xyz as an example)
+We'll be shortly seeing a reinvention of all the major tools and services we know, such as online marketplaces, communication tools, and online publishing. (See [mirror.xyz](mirror.xyz) as an example)
 
 ![https://cdn.gobeyond.so/misc/web3-adoption.png](https://cdn.gobeyond.so/misc/web3-adoption.png)
 
@@ -42,7 +42,7 @@ Communities have been an ever-present foundation of Internet culture, since the 
 However, over the past twenty years, the Internet has been dominated and shaped by the large ads companies, and our perception of how things work was twisted to suit their motivations. The role of the community took a step back during this time, while we focused instead on optimising for audience size and reach.
 
 **The large ads companies influenced us more than we realised at the time:**
-* They made us think that more people = more better.
+* They made us think that *more people = more better.*
 * They convinced us that it's OK for our privacy to be sold on our behalf.
 * They convinced us to give away our creative work for free, in return for likes and maybe a few scraps of a dollar.
 * We were taught to expect things for free, and that peoples' hard work should not be rewarded with money, but with visibility or gratitude.
