@@ -28,9 +28,9 @@ We want to reward anyone who has been a great citizen in the Beyond community, o
 A snapshot will be taken when the claim opens, so you still have time to engage, share, and help others.
 
 There are a number of things you can do to become eligible for the airdrop:
-1. If you've introduced yourself in (our Discord #introductions channel)[https://discord.gg/tSxqnSDbSN]
-1. If you've introduced your community project in (our Discord #share-projects channel)[https://discord.gg/9mP9EhdD5M]
-1. If you've helped our research by filling out (this really short survey)[https://554a6esc0i4.typeform.com/beyond-research]
+1. If you've introduced yourself in [our Discord #introductions channel](https://discord.gg/tSxqnSDbSN)
+1. If you've introduced your community project in [our Discord #share-projects channel](https://discord.gg/9mP9EhdD5M)
+1. If you've helped our research by filling out [this really short survey](https://554a6esc0i4.typeform.com/beyond-research)
 1. If you've ever shared valuable content/links in our Discord, for other members to benefit from.
 1. If you've bought a lifetime access pass NFT (they are still available here)
 1. If you've gone live with Beyond in your community
