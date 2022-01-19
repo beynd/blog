@@ -17,7 +17,7 @@ Here's what you need to know.
 
 The claim will be opened on the **25th Jan at 17:00 UTC** until the 4th of Feb. Any unclaimed tokens at that point will be forfeited.
 
-The contract address will be published and available for public viewing on the 24th Jan.
+The token will be deployed to the Polygon chain, and the contract address will be published and available for viewing on the 24th Jan.
 
 When the claiming opens, you will be able to check how many tokens you are eligible for, and claim those tokens directly on the Beyond website at [beyond.so/claim](https://beyond.so/claim).
 
