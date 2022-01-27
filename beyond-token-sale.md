@@ -4,7 +4,7 @@
   "author_profile": "https://beyond.so/",
   "date": "2022-01-27T17:00:56.394Z",
   "title": "$BEYOND token is out now",
-  "description": "We are "beyond" excited to announce that our utility token $BEYOND is now available to mint directly.",
+  "description": "We are beyond excited to announce that our utility token $BEYOND is now available to mint directly.",
   "image": "https://cdn.gobeyond.so/misc/blog/beyond-token-sale.jpg"
 }
 ---
