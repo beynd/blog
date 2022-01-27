@@ -25,7 +25,7 @@ When the claiming opens, you will be able to check how many tokens you are eligi
 
 We want to reward anyone who has been a great citizen in the Beyond community, or who has begun to engage with our product in its early stages.
 
-A snapshot will be taken when the claim opens, so you still have time to engage, share, and help others.
+**A snapshot will be taken when the claim opens on the 25th**, so you still have time to engage, share, and help others.
 
 There are a number of things you can do to become eligible for the airdrop:
 1. If you've introduced yourself in [our Discord #introductions channel](https://discord.gg/tSxqnSDbSN)
