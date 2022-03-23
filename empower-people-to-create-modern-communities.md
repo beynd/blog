@@ -1,6 +1,6 @@
 {
   "author": "Alexander Hipp",
-  "photo": "https://cdn.gobeyond.so/misc/Alex-portrait-2021.png",
+  "photo": "https://cdn.gobeyond.so/misc/Alex.png",
   "author_profile": "https://beyond.so/",
   "date": "2021-11-23T14:32:36.139Z",
   "title": "Empower people to create modern communities",

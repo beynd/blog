@@ -1,6 +1,6 @@
 {
   "author": "Alexander Hipp",
-  "photo": "https://cdn.gobeyond.so/misc/Alex-portrait-2021.png",
+  "photo": "https://cdn.gobeyond.so/misc/Alex.png",
   "author_profile": "https://beyond.so/",
   "date": "2022-01-27T17:00:56.394Z",
   "title": "$BEYOND token is out now",
